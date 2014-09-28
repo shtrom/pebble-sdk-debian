@@ -1,0 +1,5 @@
+pebble-sdk (2.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Olivier Mehani <shtrom@supahwinch.narf.ssji.net>  Sun, 28 Sep 2014 23:13:31 +1000
