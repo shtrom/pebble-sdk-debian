@@ -1,20 +1,22 @@
 Source: pebble-sdk
-Section: unknown
+Section: devel
 Priority: optional
-Maintainer: Olivier Mehani <shtrom@supahwinch.narf.ssji.net>
+Maintainer: Olivier Mehani <shtrom+debian@ssji.net>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://anonscm.debian.org/collab-maint/pebble-sdk.git
-#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/pebble-sdk.git;a=summary
+Homepage: https://developer.getpebble.com/2/getting-started/
+Vcs-Git: git://scm.narf.ssji.net/git/pebble-sdk-debian.git
+Vcs-Browser: http://scm.narf.ssji.net/git/pebble-sdk-debian/
 
 Package: pebble-sdk
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+# python-freetype-py and python-pypng can be build with py2dsc from python-stdeb
+# See [0] and [1], respectively, for debinisation
+# [0] https://github.com/shtrom/freetype-py
+# [1] https://github.com/shtrom/pypng
+Depends: ${shlibs:Depends}, ${misc:Depends}, binutils-arm-none-eabi, gcc-arm-none-eabi, python, python-sh, python-websocket, python-autobahn, python-freetype-py, python-pypng
+Suggests: python-serial, bluez
+Description: Pebble Software Development Kit (in /Pebble/)
+ This development kit allows the development of watchface
+ and watchapp for the Pebble connected smartwatch in C.
 
-Package: pebble-sdk-doc
-Architecture: all
-Description: documentation for pebble-sdk
- <insert long description, indented with spaces>
