@@ -9,12 +9,12 @@ Vcs-Git: git://scm.narf.ssji.net/git/pebble-sdk-debian.git
 Vcs-Browser: http://scm.narf.ssji.net/git/pebble-sdk-debian/
 
 Package: pebble-sdk
-Architecture: any
+Architecture: all
 # python-freetype-py and python-pypng can be build with py2dsc from python-stdeb
 # See [0] and [1], respectively, for debinisation
 # [0] https://github.com/shtrom/freetype-py
 # [1] https://github.com/shtrom/pypng
-Depends: ${shlibs:Depends}, ${misc:Depends}, binutils-arm-none-eabi, gcc-arm-none-eabi, python, python-sh, python-websocket, python-autobahn, python-freetype-py, python-pypng
+Depends: ${misc:Depends}, binutils-arm-none-eabi, gcc-arm-none-eabi, python, python-sh, python-websocket, python-autobahn, python-freetype-py, python-pypng
 Suggests: python-serial, bluez
 Description: Pebble Software Development Kit (in /Pebble/)
  This development kit allows the development of watchface
