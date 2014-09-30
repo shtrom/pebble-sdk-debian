@@ -1,0 +1,4 @@
+arch-independent-package-contains-binary-or-object
+arch-dependent-file-in-usr-share
+new-package-should-close-itp-bug
+binary-without-manpage
