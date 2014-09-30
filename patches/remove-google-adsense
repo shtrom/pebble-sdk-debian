@@ -1,0 +1,1323 @@
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/annotated.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/annotated.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/annotated.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/classes.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/classes.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/classes.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/dir_1c0b520d3dde23966608b739253ba894.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/dir_1c0b520d3dde23966608b739253ba894.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/dir_1c0b520d3dde23966608b739253ba894.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/dir_31b2ddb2365bf074d9be377bc0cb8b65.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/dir_31b2ddb2365bf074d9be377bc0cb8b65.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/dir_31b2ddb2365bf074d9be377bc0cb8b65.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/dir_4fef79e7177ba769987a8da36c892c5f.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/dir_4fef79e7177ba769987a8da36c892c5f.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/dir_4fef79e7177ba769987a8da36c892c5f.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/functions.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/functions.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/functions.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/functions_vars.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/functions_vars.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/functions_vars.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___accelerometer_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___accelerometer_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___accelerometer_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___action_bar_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___action_bar_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___action_bar_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___animation.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___animation.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___animation.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___app.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___app.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___app.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_comm.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___app_comm.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_comm.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_focus_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___app_focus_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_focus_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_message.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___app_message.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_message.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_sync.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___app_sync.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___app_sync.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___battery_state_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___battery_state_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___battery_state_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___bitmap_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___bitmap_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___bitmap_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___bluetooth_connection_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___bluetooth_connection_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___bluetooth_connection_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___clicks.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___clicks.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___clicks.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___compass_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___compass_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___compass_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___data_logging.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___data_logging.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___data_logging.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___data_structures.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___data_structures.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___data_structures.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___dictionary.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___dictionary.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___dictionary.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___drawing.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___drawing.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___drawing.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___event_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___event_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___event_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___fonts.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___fonts.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___fonts.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___foundation.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___foundation.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___foundation.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___graphics.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics_context.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___graphics_context.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics_context.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics_types.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___graphics_types.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___graphics_types.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___inverter_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___inverter_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___inverter_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___light.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___light.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___light.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___logging.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___logging.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___logging.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___math.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___math.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___math.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___memory_management.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___memory_management.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___memory_management.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___menu_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___menu_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___menu_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___number_window.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___number_window.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___number_window.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___path_drawing.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___path_drawing.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___path_drawing.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___property_animation.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___property_animation.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___property_animation.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___resources.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___resources.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___resources.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___rot_bitmap_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___rot_bitmap_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___rot_bitmap_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___scroll_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___scroll_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___scroll_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___simple_menu_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___simple_menu_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___simple_menu_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_c.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_c.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_c.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_i_o.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_i_o.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_i_o.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_math.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_math.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_math.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_memory.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_memory.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_memory.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_string.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_string.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_string.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_time.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___standard_time.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___standard_time.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___storage.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___storage.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___storage.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___text_drawing.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___text_drawing.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___text_drawing.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___text_layer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___text_layer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___text_layer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___tick_timer_service.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___tick_timer_service.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___tick_timer_service.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___timer.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___timer.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___timer.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___u_i.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___u_i.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___u_i.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___u_u_i_d.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___u_u_i_d.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___u_u_i_d.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___vibes.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___vibes.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___vibes.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___wall_time.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___wall_time.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___wall_time.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___window.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___window.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___window.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/group___window_stack.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/group___window_stack.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/group___window_stack.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/index.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/index.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/index.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
+Index: pebble-sdk-2.5/Documentation/pebble-api-reference/modules.html
+===================================================================
+--- pebble-sdk-2.5.orig/Documentation/pebble-api-reference/modules.html
++++ pebble-sdk-2.5/Documentation/pebble-api-reference/modules.html
+@@ -23,16 +23,6 @@
+   $(document).ready(function() { searchBox.OnSelectItem(0); });
+ </script>
+   <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+-  <script type="text/javascript">
+-    var _gaq = _gaq || [];
+-    _gaq.push(['_setAccount', 'UA-30638158-4']);
+-    _gaq.push(['_trackPageview']);
+-    (function() {
+-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+-    })();
+-  </script>
+ </head>
+ <body>
+   <div id="top" ><!-- do not remove this div, it is closed by doxygen! -->
