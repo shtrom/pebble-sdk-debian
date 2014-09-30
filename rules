@@ -25,7 +25,6 @@ override_dh_install:
 	dh_install
 	cd debian/pebble-sdk/usr/share/pebble-sdk/Pebble/; ./waf 2>/dev/null || true
 	find debian/pebble-sdk/usr/share/pebble-sdk/Pebble/.waf-* -name \*.pyc -exec rm {} \;
-	rm debian/pebble-sdk/usr/share/pebble-sdk/Pebble/waf
 	rm debian/pebble-sdk/usr/share/pebble-sdk/tools/.gitignore
 	rm debian/pebble-sdk/usr/share/pebble-sdk/tools/LICENSE
 
