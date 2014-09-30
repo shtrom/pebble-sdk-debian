@@ -1,2 +1,3 @@
 Pebble usr/share/pebble-sdk
 bin usr/share/pebble-sdk
+tools usr/share/pebble-sdk
