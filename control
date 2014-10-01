@@ -15,7 +15,7 @@ Architecture: all
 # [0] https://github.com/shtrom/freetype-py
 # [1] https://github.com/shtrom/pypng
 Depends: ${misc:Depends}, binutils-arm-none-eabi, gcc-arm-none-eabi, python, python-sh, python-websocket, python-autobahn, python-freetype-py, python-pypng
-Suggests: python-serial, bluez
+Suggests: bluez, python-serial, python-bluez, python-lightblue
 Description: Pebble Software Development Kit (in /Pebble/)
  This development kit allows the development of watchface
  and watchapp for the Pebble connected smartwatch in C.
