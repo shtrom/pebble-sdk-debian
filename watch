@@ -8,7 +8,7 @@ version=3
 
 # Uncomment to examine a Webpage
 # <Webpage URL> <string match>
-https://developer.getpebble.com/sdk/ PebbleSDK-(.*)\.tar\.gz
+https://developer.getpebble.com/sdk/download/ @PACKAGE@@ANY_VERSION@-linux\d+@ARCHIVE_EXT@
 
 # Uncomment to examine a Webserver directory
 #http://www.example.com/pub/pebble-sdk-(.*)\.tar\.gz

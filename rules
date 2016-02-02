@@ -19,28 +19,14 @@ include /usr/share/dpkg/default.mk
 
 # main packaging script based on dh7 syntax
 %:
-	dh $@ 
+	dh $@ --with python-virtualenv --sourcedirectory=pebble-tool
 
-override_dh_install:
-	dh_install
-	cd debian/pebble-sdk/usr/share/pebble-sdk/Pebble/; ./waf 2>/dev/null || true
-	find debian/pebble-sdk/usr/share/pebble-sdk/Pebble/.waf-* -name \*.pyc -exec rm {} \;
-	rm debian/pebble-sdk/usr/share/pebble-sdk/tools/.gitignore
-	rm debian/pebble-sdk/usr/share/pebble-sdk/tools/LICENSE
-
-override_dh_installdocs:
-	dh_installdocs
-	rm debian/pebble-sdk/usr/share/doc/pebble-sdk/Examples/watchapps/feature_custom_font/resources/fonts/osp-din/COPYING.txt
-
-override_dh_fixperms:
-	dh_fixperms
-	chmod a-x debian/pebble-sdk/usr/share/pebble-sdk/tools/test/unit/analytics_data/good_js_app/resources/fonts/unicons_30.ttf
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -rf pebble-tool/pebble_tool.egg-info/ # XXX: not sure why...
 
 # debmake generated override targets
 # This is example for Cmake (See http://bugs.debian.org/641051 )
 #override_dh_auto_configure:
 #	dh_auto_configure -- \
 #	-DCMAKE_LIBRARY_PATH=$(DEB_HOST_MULTIARCH)
-
-
-

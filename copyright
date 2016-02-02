@@ -1,14 +1,14 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: PebbleSDK
-Source: https://developer.getpebble.com/2/getting-started/
+Upstream-Name: pebble-sdk
+Source: https://developer.getpebble.com/sdk/install/linux/
 
 Files: *
-Copyright: 2014 Pebble <devsupport@getpebble.com>
+Copyright: 2014--2016 Pebble <devsupport@getpebble.com>
 License: Non-free
   (OM: no obvious license)
 
-Files: tools/*
-Copyright: 2013 Liam McLoughlin
+Files: pebble-tool/*
+Copyright: 2015 Pebble Technology
 License: MIT
   Permission is hereby granted, free of charge, to any person
   obtaining a copy of this software and associated documentation files
@@ -30,17 +30,8 @@ License: MIT
   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
 
-Files: Examples/pebble-sdk/watchapps/feature_custom_font/resources/fonts/osp-din/
-Copyright: 2011 OSP http://ospublish.constantvzw.org
-License: OFL-1.1
-  This Font Software is licensed under the SIL Open Font License,
-  Version 1.1.
-  .
-  See the project website for the current trunk and the various
-  branches: http://ospublish.constantvzw.org/foundry/osp-din/
-
 Files: debian/*
-Copyright: 2014 Olivier Mehani <shtrom+debian@ssji.net>
+Copyright: 2014--2016 Olivier Mehani <shtrom+debian@ssji.net>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

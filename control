@@ -2,7 +2,13 @@ Source: pebble-sdk
 Section: devel
 Priority: optional
 Maintainer: Olivier Mehani <shtrom+debian@ssji.net>
-Build-Depends: debhelper (>= 9)
+# XXX: need /tmp not to be mounted with the noexec option; otherwise building gevent fails with
+#     configure: error: in `/tmp/pip-build-iDg6_o/gevent/libev':
+#     configure: error: cannot run C compiled programs.
+#     If you meant to cross compile, use `--host'.
+# and
+#     error: command 'x86_64-linux-gnu-gcc' failed with exit status 1
+Build-Depends: debhelper (>= 9), python2.7-dev
 Standards-Version: 3.9.5
 Homepage: https://developer.getpebble.com/2/getting-started/
 Vcs-Git: git://scm.narf.ssji.net/git/pebble-sdk-debian.git
@@ -10,13 +16,15 @@ Vcs-Browser: http://scm.narf.ssji.net/git/pebble-sdk-debian/
 
 Package: pebble-sdk
 Architecture: all
-# python-freetype-py and python-pypng can be build with py2dsc from python-stdeb
-# See [0] and [1], respectively, for debinisation
-# [0] https://github.com/shtrom/freetype-py
-# [1] https://github.com/shtrom/pypng
-Depends: ${misc:Depends}, binutils-arm-none-eabi, gcc-arm-none-eabi, python, python-sh, python-websocket, python-autobahn, python-freetype-py, python-pypng
-Suggests: bluez, python-serial, python-bluez, python-lightblue
-Description: Pebble Software Development Kit (in /Pebble/)
+Depends: pebble-tool  (= ${binary:Version}), binutils-arm-none-eabi, gcc-arm-none-eabi
+Description: Metapackage for the Pebble Software Development Kit
  This development kit allows the development of watchface
  and watchapp for the Pebble connected smartwatch in C.
 
+Package: pebble-tool
+Architecture: any
+Depends: ${misc:Depends}, ${python:Depends}
+Suggests: bluez, python-serial, python-bluez, python-lightblue
+Description: Main tool from the Pebble Software Development Kit
+ This development kit allows the development of watchface
+ and watchapp for the Pebble connected smartwatch in C.
