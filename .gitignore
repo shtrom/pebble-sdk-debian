@@ -1,2 +1,7 @@
 pebble-sdk/*
 pebble-sdk.debhelper.log
+files
+*.debhelper
+*.log
+*.substvars
+pebble-tool/
