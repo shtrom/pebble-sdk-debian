@@ -16,7 +16,7 @@ Vcs-Browser: http://scm.narf.ssji.net/git/pebble-sdk-debian/
 
 Package: pebble-sdk
 Architecture: all
-Depends: pebble-tool  (= ${binary:Version}), binutils-arm-none-eabi, gcc-arm-none-eabi
+Depends: pebble-tool  (= ${binary:Version}), binutils-arm-none-eabi, gcc-arm-none-eabi, qemu-system-arm
 Description: Metapackage for the Pebble Software Development Kit
  This development kit allows the development of watchface
  and watchapp for the Pebble connected smartwatch in C.

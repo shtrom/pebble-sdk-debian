@@ -1,3 +1,11 @@
+pebble-sdk (4.1-1) UNRELEASED; urgency=medium
+
+  * New release
+  * Use base requirements.txt for pebble_tool to include virtualenv
+  * Add Depends on qemu-system-arm
+
+ -- Olivier Mehani <shtrom@supahwinch.narf.ssji.net>  Fri, 05 Feb 2016 00:05:12 +1100
+
 pebble-sdk (4.0.1-1) unstable; urgency=medium
 
   * New release
