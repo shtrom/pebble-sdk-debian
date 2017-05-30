@@ -1,8 +1,8 @@
-pebble-sdk (4.5-1) UNRELEASED; urgency=medium
+pebble-sdk (4.5-1) unstable; urgency=medium
 
   * New release
 
- -- Olivier Mehani <shtrom+debian@ssji.net>  Tue, 30 May 2017 14:54:49 +1000
+ -- Olivier Mehani <shtrom+debian@ssji.net>  Tue, 30 May 2017 17:34:42 +1000
 
 pebble-sdk (4.1-1) unstable; urgency=medium
 
