@@ -1,2 +1,2 @@
-usr/share/python/pebble-tool/bin/pebble usr/bin/pebble
+opt/venvs/pebble-tool/bin/pebble usr/bin/pebble
 /dev/null	usr/share/pebble-sdk/NO_TRACKING

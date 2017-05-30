@@ -1,0 +1,17 @@
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -15,5 +15,5 @@
+ websocket-client==0.32.0
+ wheel==0.24.0
+ colorama==0.3.3
+-packaging==16.7
++packaging==16.8
+ https://s3-us-west-2.amazonaws.com/pebble-sdk-homebrew/pypkjs-1.0.6.tar.gz
+--- a/pebble-tool/requirements.txt
++++ b/pebble-tool/requirements.txt
+@@ -14,4 +14,4 @@
+ websocket-client==0.32.0
+ wheel==0.24.0
+ colorama==0.3.3
+-packaging==16.7
++packaging==16.8
